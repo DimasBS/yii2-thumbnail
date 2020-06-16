@@ -1,6 +1,6 @@
 <?php
 
-namespace dimas\bs;
+namespace dhimas\bs;
 
 use \yii\bootstrap\Widget;
 
